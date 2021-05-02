@@ -2,10 +2,9 @@ import React from "react";
 import logo from '../logo.png';
 import {
   FaFacebookF,
-  FaTwitter,
-  FaPinterest,
+  FaGithub,
   FaInstagram,
-  FaPlay,
+ 
 } from "react-icons/fa";
 const Contact = () => {
   return (
@@ -17,24 +16,25 @@ const Contact = () => {
               <div className="contactSection-logo">
                 <img src={logo} alt="" />
               </div>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exe- rcitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat.
+              <p style={{textAlign: 'center'}}>
+               Here You Can Connect with Me by many social networks.Stay with me.
               </p>
               <ul className="contactCircles">
                 <li>
+                    <a href="https://www.facebook.com/tanvir.rafi.3348">
                   <FaFacebookF className="contactIcon" />
+                  </a>
                 </li>
                 <li>
-                  <FaTwitter className="contactIcon" />
+                    <a href="https://github.com/Tanvir19026">
+                  <FaGithub className="contactIcon" />
+                  </a>
                 </li>
-                <li>
-                  <FaPinterest className="contactIcon" />
-                </li>
-                <li>
+               
+                <li >
+                    <a href="https://www.instagram.com/tanvir.rafi.3348/">
                   <FaInstagram className="contactIcon" />
+                  </a>
                 </li>
               </ul>
             </div>

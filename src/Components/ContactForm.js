@@ -45,7 +45,7 @@ const ContactForm = () => {
                         <br/>
 
                         <div >
-                            <input type="submit" className="btn btn-info" value="Send Message" style={{width:'10%',padding:'15px',color:'black',backgroundColor:'grey'}}></input>
+                            <input type="submit" className="btn btn-info" value="Send Message" style={{padding:'15px',color:'black',backgroundColor:'grey'}}></input>
                         </div>
                     </div>
                 </form>

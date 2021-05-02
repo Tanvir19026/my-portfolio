@@ -21,9 +21,12 @@ const Projects = () => {
           image:fitnessClub,
           heading: "Fitness Club Full stack Website",
           
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript,react js.\
-          Backend:Node js,MongoDB,Express js.\
-          Tools:Vs code,Firebase,heroku,chrome dev etc",
+          programmingTools:"FrontEnd:Html,css,Bootstrap,\
+          javascript,react js.\
+          Backend:Node js,\
+          MongoDB,Express js.\
+          Tools:Vs code,Firebase,heroku,\
+          chrome dev etc",
           text:
             "This is a full stackwebsite\
             it has a six section where client can choose manuy services for fitness.\
@@ -36,9 +39,12 @@ const Projects = () => {
           id: 2,
           image:BigBazar,
           heading: "Big-Bazar E-Commerce Website",
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript,react js.\
-          Backend:Node js,MongoDB,Express js.\
-          Tools:Vs code,Firebase,heroku,chrome dev etc",
+          programmingTools:"FrontEnd:Html,css,Bootstrap,\
+          javascript,react js.\
+          Backend:Node js,\
+          MongoDB,Express js.\
+          Tools:Vs code,Firebase,heroku,\
+          chrome dev etc",
           text:
             "This is a Big Bazar shopping website\
             Here people can visit and order products.\
@@ -51,7 +57,9 @@ const Projects = () => {
           id: 3,
           image:rideshare,
           heading: "Ride Share website",
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript,react js,Meterial UI.\
+          programmingTools:"FrontEnd:Html,css,Bootstrap,\
+          javascript,react js,\
+          Meterial UI.\
          \
           Tools:Vs code,Firebase,chrome dev,netlify etc",
           text:
@@ -66,7 +74,8 @@ const Projects = () => {
         {
           id: 4,
           image:epl,
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript,react js.\
+          programmingTools:"FrontEnd:Html,css,\
+          Bootstrap,javascript,react js.\
           \
            Tools:Vs code,Firebase,chrome dev,netlify etc",
           heading: "English Premier League Website",
@@ -82,7 +91,8 @@ const Projects = () => {
           id: 5,
           image:TicketBooking,
           heading: "Cruise Queen Ticket Booking Website",
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript.\
+          programmingTools:"FrontEnd:Html,css,\
+          Bootstrap,javascript.\
           \
            Tools:Vs code,Firebase,chrome dev.",
           text:
@@ -98,7 +108,8 @@ const Projects = () => {
           id: 6,
           image:fashion,
           heading: "Tanvir E-Shoping Website",
-          programmingTools:"FrontEnd:Html,css,Bootstrap,javascript,\
+          programmingTools:"FrontEnd:Html,css,\
+          Bootstrap,javascript,\
           \
            Tools:Vs code,Firebase,chrome dev.",
           text:
