@@ -21,10 +21,11 @@ function App() {
     
       <Banner></Banner>
       <Nav></Nav>
+      <About></About>
       <Projects></Projects>
       <Services></Services>
       <Blog></Blog>
-      <About></About>
+      
        <ContactForm></ContactForm>
        <Contact></Contact>
       <Skills></Skills>

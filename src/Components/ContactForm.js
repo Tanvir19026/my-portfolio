@@ -16,7 +16,7 @@ const ContactForm = () => {
     return (
         
                     <div style={{backgroundColor:'#1f2235',textAlign:'center'}} >
-                        <h2 style={{color:'red'}}>Contact with Me</h2>
+                        <h2 style={{color:'red',paddingTop:'20px'}}>Contact with Me</h2>
                         <br/>
             <form onSubmit={sendEmail}>
                     <div>
