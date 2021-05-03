@@ -160,6 +160,7 @@ body {
   width: 33.33333333333333%;
   margin: 20px auto;
   text-align: center;
+  border-radius: 10px;
 }
 
 .heading {
@@ -167,18 +168,23 @@ body {
   font-weight: 500;
   color: #ff4a57;
   font-size: 16px;
+ 
 }
 .mainHeader {
   font-size: 32px;
   margin-bottom: 20px;
   color: #fff;
+  
 }
 .mainContent {
   font-size: 16px;
   color: #dfdfdf;
+   
+  
 }
 .commonBorder {
-  background: #ff4a57;
+  
+    background: #ff4a57;
   height: 3px;
   width: 100px;
   margin: 30px auto;
@@ -190,6 +196,7 @@ body {
   color: #fff;
   margin: 20px;
   transition: all 0.5s linear;
+  border-radius: 10px;
 }
 .services__box:hover {
   background: #ff4a57;

@@ -15,6 +15,9 @@ const About = () => {
     { id: 2, title: "Email:", text: "tanvirrafi1999@gmail.com" },
     { id: 3, title: "Phone:", text: "+8801765341047" },
     { id: 4, title: "Linkedin", text:"https://www.linkedin.com/in/tanvir-rafi-8a6aa2202/" },
+    {id:5,title:'Expert In :Front-End', text:'Html,Css,Javascript,React JS,Meterial UI,Bootstrap etc.'},
+    {id:5,title:'Expert In :Back-End', text:'Node js,Express Js,MongoDB.'},
+    {id:5,title:'Expert In :Tools', text:'Firebase,Netlify,Chrome dev,Vs code.'},
   ]);
   return (
     <div className="about">

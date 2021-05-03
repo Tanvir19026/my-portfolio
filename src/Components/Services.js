@@ -20,48 +20,42 @@ const Services = () => {
       icon: <FaGithub className="commonIcons" />,
       heading: "Web Development",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-      industry. simply dummy",
+        "I am a full stack web developer.",
     },
     {
       id: 2,
       icon: <FaCamera className="commonIcons" />,
-      heading: "Photography",
+      heading: "Responsive Webdesign",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "I can design website for All template sizing.",
     },
     {
       id: 3,
       icon: <FaCircleNotch className="commonIcons" />,
       heading: "Web Design",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "i can design a website how you need.",
     },
     {
       id: 4,
       icon: <FaApple className="commonIcons" />,
       heading: "App Devlopment",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "I am also a android app developer.",
     },
     {
       id: 5,
       icon: <FaFileVideo className="commonIcons" />,
       heading: "Content Writter",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "I am a content writter and working on fiverr.",
     },
     {
       id: 6,
       icon: <FaSearchDollar className="commonIcons" />,
       heading: "SEO Expert",
       text:
-        "Lorem Ipsum is simply dummy text of the printing typesetting\
-        industry. simply dummy",
+        "Search engine optimization expert.",
     },
   ]);
   return (
