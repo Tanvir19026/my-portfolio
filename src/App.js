@@ -22,13 +22,18 @@ function App() {
       <Banner></Banner>
       <Nav></Nav>
       <About></About>
+      <Skills></Skills>
+      
+  
       <Projects></Projects>
+      
+
       <Services></Services>
       <Blog></Blog>
       
        <ContactForm></ContactForm>
        <Contact></Contact>
-      <Skills></Skills>
+     
       
      
     

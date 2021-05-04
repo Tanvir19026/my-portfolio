@@ -22,30 +22,30 @@ const ContactForm = () => {
                     <div>
 
                         <div >
-                            <input style={{width:'50%',padding:'0.5%'}} type="text"  placeholder="Name" name="name"/>
+                            <input style={{width:'35%',padding:'0.5%'}} type="text"  placeholder="Name" name="name"/>
                         </div>
                         <br/>
                         
                         <div>
                             
-                            <input style={{width:'50%',padding:'0.5%'}} type="email" className="form-control" placeholder="Email Address" name="email"/>
+                            <input style={{width:'35%',padding:'0.5%'}} type="email" className="form-control" placeholder="Email Address" name="email"/>
                             
                         </div>
                         <br/>
 
   
                         <div >
-                            <input style={{width:'50%',padding:'0.5%'}} type="text" className="form-control" placeholder="Subject" name="subject"/>
+                            <input style={{width:'35%',padding:'0.5%'}} type="text" className="form-control" placeholder="Subject" name="subject"/>
                         </div>
                         <br/>
                         
                         <div >
-                            <textarea  className="form-control" id="" cols="35" rows="10" placeholder="Your message" name="message"></textarea>
+                            <textarea style={{borderRadius:'5px'}}  className="form-control" id="" cols="45" rows="5" placeholder=" Your message" name="message"></textarea>
                         </div>
                         <br/>
 
                         <div >
-                            <input type="submit" className="btn btn-info" value="Send Message" style={{padding:'15px',color:'black',backgroundColor:'grey'}}></input>
+                            <input type="submit" className="btn btn-info" value="Send Message" style={{padding:'15px',color:'black',backgroundColor:'grey',cursor:'pointer',borderRadius:'5px'}}></input>
                         </div>
                     </div>
                 </form>
