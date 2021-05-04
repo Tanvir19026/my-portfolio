@@ -1,6 +1,6 @@
 import React from "react";
 import rafi from '../Group 33085.png';
-import resume from '../rafi  resume.pdf';
+import resume from '../Resume_3.pdf';
 import {
   FaFacebookF,
 
