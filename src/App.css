@@ -10,7 +10,7 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background-color: #000;
+  background-color: #1f2235;
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -192,7 +192,7 @@ body {
 
 .services__box {
   padding: 40px;
-  background: #23263a;
+  background: #1f2235;
   color: #fff;
   margin: 20px;
   transition: all 0.5s linear;
@@ -245,7 +245,7 @@ body {
 }
 .about {
   width: 100%;
-  background: #23263a;
+  background: #1f2235;
   padding: 100px 0;
 }
 .about__img {
